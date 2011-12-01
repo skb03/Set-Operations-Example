@@ -159,8 +159,3 @@ void setMinus(vector<int>* A, vector<int>* B, vector<int>* temp)
 	}
 		//If there is a match remove that element from temp
 }
-
-/*
-* Returns the result of not set A
-* Must pass in the universal set
-*/
