@@ -1,0 +1,14 @@
+Set Operations Example
+By: Seth Bane
+
+This program is a basic example of some set operations performed on finite sets
+that are part of the same universal set.
+
+Also, this program demonstrates the use of the STL vector container
+
+Programmed and Compiled in Visual Studio 2008 Professional
+
+Works in Progress:
+      - Code is not usable with vectors that have different sizes
+      - I am sure there are better ways to optimize the code
+        But, I opted to use the Brute-force approach
